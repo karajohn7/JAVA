@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Oι πίτες του Πίτου</title>
+</head>
+
+<body>
+  <header>
+    <h2><a href="index.html">Oι πίτες του Πίτου</a></h2>
+    <p>Πάρε μου μια πίτα</p>
+    <nav>
+      <ul>
+        <li><a href="store.html">Κατάστημα</a></li>
+        <li><a href="pies.html">Μενού</a></li>
+        <li><a href="contact.html">Επικοινωνία</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Αρχική Σελίδα</h1>
+    <article class="">
+      <h2> Οι Πίτες μας! </h2>
+      <table>
+        <tr>
+          <td><img src="exercise02_images/spanakopita.jpg" alt="Η σπανακόπιτα μας !" </td>
+          <td>Σπανακόπιτα: 4 €</td>
+        </tr>
+
+        <tr>
+          <td><img src="exercise02_images/manitaropita.jpg" alt="Η μανιταρόπιτα μας" </td>
+          <td>Μανιταρόπιτα: 5.5 €</td>
+        </tr>
+
+        <tr>
+          <td><img src="exercise02_images/prasopita.jpg" alt="Η πρασόπιτα μας" </td>
+          <td>Πρασόπιτα: 3.5 €</td>
+        </tr>
+
+        <tr>
+
+        <td> <img src="exercise02_images/boureki.jpg" alt="Το μπουρέκι μας" </td>
+        <td>Μπουρέκι: 4.5 €</td>
+      </tr>
+      </table>
+      <h2>Οι πίτες μας στον χώρο σας</h2>
+      <form class="" action="SendData" method="post">
+        <p>Ωράριο λήψης παραγγελιών 18:00-22:00</p>
+        <fieldset>
+          <legend>Πληροφορίες Παράδοσης</legend>
+          <label for="Onoma">Ονοματεπώνυμο</label>
+          <input type="text" id="Onoma" value="" autocomplete="on" required minlength="3" maxlength="40">* <br>
+
+          <label for="Dieythinsi">Διέυθυνση(Οδός-Αριθμός)</label>
+          <input type="text" id="Dieythinsi" value="" autocomplete="on" required minlength="3" maxlength="40">* <br>
+
+          <label for="perioxh">Περιοχή</label>
+          <select id="perioxh" name="hperioxh">
+            <option value="petroupolh" selected>Πετρούπολη</option>
+            <option value="peristeri">Περιστέρι</option>
+            <option value="aigalew">Αιγάλεω</option>
+            <option value="kamatero">Καματερό</option>
+            <option value="xrysoupolh">Χρυσούπολη</option>
+
+          </select>
+          <br>
+
+          <label for="txtEmail">Email</label>
+          <input type="email" id="txtEmail" name="Email" value="" required maxlength="40" autocomplete="on"  >* <br>
+
+          <label for="txtphonenumber">Tηλέφωνο</label>
+          <input type="tel" id="txtphonenumber" name="phonenumber" value=""  autocomplete="on" required > *
+
+
+          <label for="txtMessage">Ειδικές πληροφορίες για την παράδοση</label>
+          <textarea id="txtMessage" name="Mhnyma" value="" cols=40 rows=6></textarea>
+
+            <p>*Tα πεδία είναι υποχρωτικά</p>
+        </fieldset>
+
+        <fieldset>
+          <legend>Παραγγελία</legend>
+          <ul>
+            <li>Σπανακόπιτα</li> <label for="arithmos spanakopita"></label> <input type="number" id="arithmos spanakopita " min="0" max="50" name="" value="0"> <br>
+            <li>Μανιταρόπιτα</li> <label for="arithmos manitaropita"></label> <input type="number" id="arithmos manitaropita " min="0" max="50" name="" value="0"> <br>
+            <li>Πρασόπιτα</li> <label for="arithmos prasopita"></label> <input type="number" id="arithmos prasopita " min="0" max="50" name="" value="0"> <br>
+            <li>Μπουρέκι</li> <label for="arithmos mpoureki"></label> <input type="number" id="arithmos mpoureki " min="0" max="50" name="" value="0"> <br>
+          </ul>
+        </fieldset>
+
+        <fieldset>
+          <legend>Τρόπος πληρωμής</legend>
+          <input type="radio" id="rdcash" name="plhrwmh" value="cash">
+          <label for="rdCash">Μετρητά</label>
+          <input type="radio" id="rdvisa" name="plhrwmh" value="visa">
+          <label for="rdvisa"> Visa</label>
+          <input type="radio" id="rdeidos" name="plhrwmh" value="eidos">
+          <label for="rdeidos">Έιδος</label>
+        </fieldset>
+
+        <label for="txtSubmit"></label>
+        <input type="submit" id="txtSubmit"  value="Αποστολή">
+
+        <label for="txtClear"></label>
+        <input type="reset" id="txtClear" value="Καθαρισμός">
+
+      </form>
+
+
+    </article>
+  </main>
+
+  <aside class="">
+    <h2>Προσφορές</h2>
+    <p>Giveaway</p>
+    <p>Στις 10 η 1 δώρο</p>
+
+  </aside>
+
+  <footer>
+    <p>&copy; Οι πίτες του Πίτου 2021</p>
+  </footer>
+
+</body>
+
+</html>
