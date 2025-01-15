@@ -1,0 +1,18 @@
+
+
+Name:Ευθυμιος Καραγιαννης |Itinerary:Athens-Chios |Cost:Businnes Class 200$ |Station:Athens |Date:14/06/2021 |Seat:4A |Gate:GATEA2 |Dtime:9pm |Ticket Id:8188
+Name:Κωστας Καραγκουνης |Itinerary:Athens-Chios|Cost:Regular 50$ |Station:Athens |Date:15/06/2021 |Seat:6B |Gate:GATEC2 |Dtime:3pm |Ticket Id:8626
+Name:Παναγιωτοπουλου Δημητρα |Itinerary:Athens-Thessaloniki |Cost:Premium 100$ |Station:Athens |Date:11/06/2021 |Seat:3A |Gate:GATEB2 |Dtime:6pm |Ticket Id:9902
+Name:Καραγιαννη Κωνσταντινα |Itinerary:Athens-Chios |Cost:Premium 100$ |Station:Athens |Date:11/06/2021 |Seat:8A |Gate:GATEB2 |Dtime:12am |Ticket Id:8181
+Name:Πετροπουλος Κωστας |Itinerary:Athens-Chios |Cost:Regular 50$ |Station:Athens |Date:19-6-2021 |Seat:4A |Gate:GATEB1 |Dtime:3pm |Ticket Id:5780
+Name:Καραγιαννης Αποστολης |Itinerary:Athens-Crete |Cost:Regular 50$ |Station:Athens |Date:17-6-2021 |Seat:9B |Gate:GATEC1 |Dtime:9pm |Ticket Id:8091
+Name:Καραγιαννης Γεωργιος |Itinerary:Athens-Chios |Cost:Premium 100$ |Station:Athens |Date:18-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:6pm |Ticket Id:6354
+Name:Τσιγαριδα Σταυρουλα |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:9am |Ticket Id:243
+Name:Καραγιαννοπουλος Αθανασιος |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA2 |Dtime:3pm |Ticket Id:920
+Name:Καραγιαννη Ζωη |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:9am |Ticket Id:8081
+Name:Καραγιαννης Γιαννης |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:21-6-2021 |Seat:1A |Gate:GATEC1 |Dtime:9am |Ticket Id:9626
+Name:Καραγιαννης Αθανασιος |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:12pm |Ticket Id:4856
+Name:Καραγιαννης Βασιλης |Itinerary:Athens-Santorini |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:11B |Gate:GATEC2 |Dtime:12am |Ticket Id:759
+Name:Αποστολου Λαμπρος |Itinerary:Athens-Crete |Cost:Regular 50$ |Station:Athens |Date:12-6-2021 |Seat:1A |Gate:GATEC1 |Dtime:9am |Ticket Id:493
+Name: |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:9am |Ticket Id:5944
+Name: |Itinerary:Athens-Thessaloniki |Cost:Economic 25$ |Station:Athens |Date:11-6-2021 |Seat:1A |Gate:GATEA1 |Dtime:9am |Ticket Id:35
